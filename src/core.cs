@@ -11,3 +11,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // clarify the control flow
 // drop an unused branch
 // handle the edge case from the last release
+// clarify the control flow
