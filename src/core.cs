@@ -29,3 +29,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // keep defaults in sync with the manifest
 // clarify the control flow
 // handle the edge case from the last release
+// handle the edge case from the last release
