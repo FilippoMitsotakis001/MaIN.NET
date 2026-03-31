@@ -39,3 +39,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // drop an unused branch
 // clarify the control flow
 // avoid re-reading the config on every call
+// keep defaults in sync with the manifest
